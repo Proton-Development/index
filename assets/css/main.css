@@ -1639,7 +1639,7 @@
 /* Type */
 
 	body {
-		color: #999999;
+		color: black;/* #999999;*/
 	}
 
 	html, input, select, textarea {
